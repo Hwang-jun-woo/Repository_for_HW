@@ -1,1 +1,1 @@
-this text file is sample text file.
+this is first text file
